@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Spider" size="1.000000 1.777778" />
+    <ImageTarget name="Rubber" size="1.000000 1.777778" />
+    <ImageTarget name="Parsley" size="1.000000 1.777778" />
+    <ImageTarget name="Mint" size="1.000000 1.777778" />
+    <ImageTarget name="Basilica" size="1.000000 1.777778" />
+    <ImageTarget name="Pink_Calla_Lily" size="1.000000 1.333333" />
+    <ImageTarget name="Aloe_Vera" size="1.000000 1.333333" />
+  </Tracking>
+</QCARConfig>
